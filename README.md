@@ -1,0 +1,1 @@
+This repository contains a Tcl code example demonstrating an improper error handling within a procedure that retrieves an element from a list. The code includes a fix demonstrating a better approach.
